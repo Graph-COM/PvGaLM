@@ -1,3 +1,5 @@
+# adapted from https://github.com/huggingface/transformers/blob/v4.39.3/src/transformers/trainer.py
+
 import os
 from typing import Any, Dict, List, Optional, Tuple, Union
 import logging

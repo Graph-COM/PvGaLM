@@ -1,3 +1,4 @@
+# adapted from https://github.com/PeterGriffinJin/Patton/blob/main/src/OpenLP/dataset/train_dataset.py
 
 from dataclasses import dataclass
 from transformers import DataCollatorWithPadding, DefaultDataCollator, PreTrainedTokenizer, DataCollatorForLanguageModeling

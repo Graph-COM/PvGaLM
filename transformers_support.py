@@ -12,7 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-### adopted from private transformer
+### adapted from https://github.com/lxuechen/private-transformers/blob/main/private_transformers/transformers_support.py
+
 """Utilities to make using PrivacyEngine easy with Hugging Face transformers."""
 import types
 from typing import Optional, Tuple, Union
